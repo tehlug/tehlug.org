@@ -33,11 +33,15 @@ params:
         { title: "بایگانی", url: "https://archive.org/details/@tehlug" },
         { title: "گیت‌هاب", url: "https://github.com/tehlug" },
         { title: "ترلو", url: "https://trello.com/tehlug" },
-        { title: "تلگرام", url: "https://t.me/TehranLUG" },
+        { title: "تلگرام", url: "https://t.me/TehranLug" },
+        { title: "گروه تلگرام", url: "https://t.me/TehlugGp" },
         { title: "ماستودون", url: "https://mastodon.social/@tehlug", rel: "me"},
         { title: "توییتر", url: "https://twitter.com/tehlug" },
+        { title: "یوتیوب", url: "https://youtube.com/@TehranLUG" },
         { title: "اینستاگرم", url: "https://instagram.com/tehlug" },
-        { title: "ایوند", url: "https://evand.com/tehlug" },
+        { title: "ایوند", url: "https://evand.com/organizations/tehlug" },
+        { title: "لینکداین", url: "https://linkedin.com/company/tehlug/" },
+        { title: "گوگل کلندر", url: "https://calendar.google.com/calendar?cid=MHY3M3Z0czVoYnU5N3Nmajk0Mzdtcmc1cGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" },
       ]
 
 taxonomies:
