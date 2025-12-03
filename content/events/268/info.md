@@ -4,7 +4,7 @@ date: 2023-05-12T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 268
-eventDate: 1401-03-04
+eventDate: 1402-03-04
 startTime: 14:00
 endTime: 18:00
 address: "خیابان استاد حسن بنا، پایین‌تر از میدان ملت، بین کوچه‌های کاشف و فلاح، ساختمان ندا رایانه"
