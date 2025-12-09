@@ -2,7 +2,8 @@ baseURL: "https://tehlug.org/"
 languageCode: "fa-ir"
 title: "تهران‌لاگ"
 theme: "Tehlug-Hugo-Theme"
-paginate: 3
+pagination:
+  pagerSize: 3
 favicon: static/favicon.ico
 
 params:
