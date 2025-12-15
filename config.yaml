@@ -19,7 +19,7 @@ params:
       [
         { title: "تهران‌لاگ", url: "/about-tehlug", name: "", name: "about-tehlug" },
         { title: "جلسات", url: "/events", name: "events" },
-        # { title: "جلسات آینده", url: "/calendar", name: "calendar" }, ## برای ۴ سال پیشه این صفحه. بودنش باعث سردرگمی و اشتباه میشه
+        { title: "جلسات آینده", url: "/calendar", name: "calendar" }, 
         { title: "اخبار", url: "/news", name: "news" },
         { title: "موضوعات", url: "/topics", name: "topics" },
         { title: "ارائه دهندگان", url: "/speakers", name: "speakers" },
